@@ -1,4 +1,4 @@
-# Recession's Impact on Automobile Sales | Sep 2023
+# Recession's Impact on Automobile Sales
 
 Overview:
 ---------
